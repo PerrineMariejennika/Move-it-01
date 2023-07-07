@@ -1,0 +1,17 @@
+
+body{
+    background-color:aquamarine;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#097146;
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color: #db2b2b;
+}
+
+
+
